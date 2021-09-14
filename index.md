@@ -17,6 +17,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Link](url) and ![Image](src)
 ```
-<iframe width="420" height="315">
-src="https://www.youtube.com/embed/c-2OC6CQgTE"
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/c-2OC6CQgTE">
 </iframe>
